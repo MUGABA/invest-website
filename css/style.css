@@ -2409,7 +2409,7 @@ textarea {
   font-family: "Exo", sans-serif;
   font-weight: 400;
   width: 100%;
-  max-width: ;
+  max-width: 0;
   padding: 12.9px;
   color: #1c1c1c;
   background: #f2f2f2;
@@ -2445,7 +2445,7 @@ textarea {
   background: #f2f2f2;
   border: 1px solid #f0f0f0;
   margin-top: 7px;
-  margin-left: ;
+  margin-left: 0px;
   margin-right: 15px;
   -webkit-border-radius: 2px;
 }
